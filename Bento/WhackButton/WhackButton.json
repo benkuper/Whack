@@ -1,0 +1,20 @@
+{
+	"name":"Whack Button",
+	"type":"Bento",
+	"family":"Instruments",
+	"shape": "Hoop",
+
+	"components":
+	{
+		"rgb":
+		{
+			"updateRate":40,
+			"resolution":6
+		},
+
+		"buttons":
+		{
+			"count":1
+		}
+	}
+}
